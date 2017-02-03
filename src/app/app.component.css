@@ -1,0 +1,21 @@
+*{
+	padding-left: 0;
+}
+.container {
+    width: 50%;
+    margin: 0 auto;
+    font-family: arial;
+    color: #648B8C;
+}
+
+img {
+    max-width: 100%;
+    
+}
+
+button {
+    border: 0;
+    background: none;
+    cursor: pointer;
+    font-size: x-large;
+}
